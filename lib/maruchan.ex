@@ -1,0 +1,2 @@
+defmodule Maruchan do
+end
